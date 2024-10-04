@@ -18,10 +18,10 @@ With over 20 years in the software development industry, I specialize in **C#** 
 
 ### 📫 Get in Touch
 - **Email:** [today@amaga.club](mailto:today@amaga.club)
-- **X (ex. twitter):** [@pauldikaloff](https://x.com/pauldikaloff
+- **X (ex. twitter):** [@pauldikaloff](https://x.com/pauldikaloff)
 
 ### 📈 GitHub Stats
-![My Git Stats](https://github-readme-stats.vercel.app/api?username=pavedik&show_icons=true&theme=default)
+![My Git Stats](https://github-readme-stats.vercel.app/api?username=pavadik&show_icons=true&theme=default)
 
 ---
 
