@@ -22,7 +22,7 @@ With over 20 years in the software development industry, I specialize in **C#** 
 - **LinkedIn:** [pavel-dikalov](https://www.linkedin.com/in/pavel-dikalov/")
 
 ### 📈 GitHub Stats
-![My Git Stats](https://github-readme-stats.vercel.app/api?username=pavadik&show_icons=true&theme=default)
+![My Git Stats](https://github-readme-stats-nine-mu-95.vercel.app/api?username=pavadik&show_icons=true&theme=default)
 
 ---
 
